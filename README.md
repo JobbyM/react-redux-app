@@ -1,6 +1,6 @@
 # react-redux-app
 
-> Question &amp; Answer App using react &amp; Bootstrap
+> React &amp; Redux App using react &amp; Redux
 
 ## 项目介绍
 
